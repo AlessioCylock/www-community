@@ -1,5 +1,14 @@
 [
    {
+      "title": "EVA | Extended Vulnerability Assesment",
+      "url": "https://www.cylock.tech",
+      "owner": "CyLock s.r.l",
+      "license": "Commercial",
+      "platforms": "SaaS",
+      "note": "More than a Vulnerability Assessment, Safer than a Penetration Test. AI-based software that empowers anyone to find and fix IT systems’ vulnerabilities with simplicity and time saving!",
+      "type": "DAST"
+   },
+   {
       "title": "Cycode | Complete ASPM",
       "url": "https://www.cycode.com",
       "owner": null,
